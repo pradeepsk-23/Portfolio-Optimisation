@@ -1,0 +1,7 @@
+# requirements.txt
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+yfinance>=0.2
+matplotlib>=3.7
+requests>=2.31
